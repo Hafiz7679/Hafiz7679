@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java ,C ,C++, python**
 
-- 📫 How to reach me **skhafiz540@gmail.com**
+- 📫 How to reach me **abdulhafizsk8927@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
