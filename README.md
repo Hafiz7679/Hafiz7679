@@ -14,7 +14,7 @@ Building scalable web applications with modern technologies.
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech (Information Technology)
+- 🎓 B.Tech Graduate in Information Technology
 - 💻 Passionate about Full-Stack Web Development
 - 🌱 Currently learning Advanced MERN Stack & System Design
 - 🚀 Building real-world projects using React, Node.js & MongoDB
